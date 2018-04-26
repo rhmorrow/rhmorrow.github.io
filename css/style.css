@@ -9,6 +9,10 @@ p {
   text-align: center;
 }
 
+h1 {
+  text-shadow: 2px 2px black;
+}
+
 .sidenav-trigger {
   color: #26a69a;
 }
@@ -37,6 +41,10 @@ p {
   #index-banner .section {
     top: 0;
   }
+}
+
+#apps{
+  padding-top: 30px;
 }
 
 .icon-block {
